@@ -74,11 +74,11 @@ Aplikasi Kuis Sepak Bola Interaktif berbasis Flutter.
 
 | Welcome Screen | Category Screen | Quiz Screen (Light) | Quiz Screen (Dark) |
 | :---: | :---: | :---: | :---: |
-| <img src="screeenshots/welcome.jpeg" width="200" /> | <img src="screeenshots/category.jpeg" width="200" /> | <img src="screeenshots/quiz_light.jpeg" width="200" /> | <img src="screeenshots/quiz_dark.jpeg" width="200" /> |
+| <img src="screenshots/welcome.jpeg" width="200" /> | <img src="screenshots/category.jpeg" width="200" /> | <img src="screenshots/quiz_light.jpeg" width="200" /> | <img src="screenshots/quiz_dark.jpeg" width="200" /> |
 
 | Result & Review Screen | Leaderboard Screen | Tampilan Landscape / Responsive |
 | :---: | :---: | :---: |
-| <img src="screeenshots/result.jpeg" width="200" /> | <img src="screeenshots/leaderboard.jpeg" width="200" /> | <img src="screeenshots/quiz_landscape.jpeg" width="420" /> |
+| <img src="screenshots/result.jpeg" width="200" /> | <img src="screenshots/leaderboard.jpeg" width="200" /> | <img src="screenshots/quiz_landscape.jpeg" width="420" /> |
 
 ### iii. Link Mockup / Prototype Aplikasi
 
